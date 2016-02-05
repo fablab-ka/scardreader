@@ -2,7 +2,7 @@
 
 Python script to read the id of a mifare card (e.g. with REINERSCT basic reader).
 
-## Installaion on Raspberry PI
+## Installation on Raspberry PI
 
 http://enerds.eu/blog/reiner-cyberjack-rfid-basis.html
 
