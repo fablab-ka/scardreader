@@ -6,6 +6,8 @@ Python script to read the id of a mifare card (e.g. with REINERSCT basic reader)
 
 http://enerds.eu/blog/reiner-cyberjack-rfid-basis.html
 
+sudo apt-get install python-pyscard
+
 ## Usage
 
 python read_id.py
